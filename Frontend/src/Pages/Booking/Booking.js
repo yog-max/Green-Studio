@@ -81,7 +81,7 @@ function Booking() {
     return `${year}-${month}-${day}`
 }
 
-  // Input field reusable style
+  // Input field reusable tailwind style 
   const inputClass = `
     w-full  py-3
     border-2 border-gray-300
