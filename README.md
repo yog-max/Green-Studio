@@ -1,54 +1,18 @@
-\#  Green Studio
+# Green Studio – Booking Platform
 
+Green Studio is a user-focused web application designed to simplify event and photoshoot bookings. 
+Users can explore services, book slots, and manage their accounts through a clean and intuitive interface.
 
+The application also includes secure authentication and password recovery features, ensuring a smooth and reliable user experience.
 
-Full Stack Photography Studio Web Application
+## Features
 
+- User Registration & Login
+- Forgot Password Functionality
+- Event & Photoshoot Booking
+- Responsive UI Design
+- Secure Data Handling
 
+- ## Author
 
-\## Tech Stack
-
-\### Frontend
-
-\- React.js
-
-\- Tailwind CSS
-
-\- React Router
-
-
-
-\### Backend
-
-\- Spring Boot
-
-\- MySQL
-
-\- JWT Authentication
-
-\- Spring Security
-
-
-
-\## Deployment
-
-\- Frontend → Netlify
-
-\- Backend  → Render
-
-\- Database → Clever Cloud MySQL
-
-
-
-\## Features
-
-\- User Registration \& Login
-
-\- Event Booking System
-
-\- Admin Dashboard
-
-\- JWT Authentication
-
-\- Responsive Design
-
+Yogeswararao Bonigala
