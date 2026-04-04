@@ -13,6 +13,18 @@ The application also includes secure authentication and password recovery featur
 - Responsive UI Design
 - Secure Data Handling
 
+## Tech Stack
+**Frontend:**
+- React.js
+- Tailwind CSS
+
+**Backend:**
+- Spring Boot
+- REST APIs
+
+**Database:**
+- MySQL
+
 - ## Author
 
 Yogeswararao Bonigala
